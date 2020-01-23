@@ -1,3 +1,10 @@
+#author {
+    font-size: 3px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
 #header-wrapper{
     text-align: center;
     height: 40px;
